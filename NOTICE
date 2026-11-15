@@ -2,8 +2,7 @@ KHPAL GPS
 Copyright (C) 2026 MK_MANDOKHAIL (modifications)
 
 KHPAL GPS is a modified version of "GPS Setter" by @jqssun
-(https://github.com/jqssun/android-gps-setter, 2024-2025), which is itself based on
-"GPS Setter" by @Android1500 (https://github.com/Android1500/GPS-Setter, 2022-2023).
+(https://github.com/jqssun/android-gps-setter, 2024-2025).
 
 Modifications made in KHPAL GPS (summary):
  - renamed and rebranded (name, package com.khpalgps.zb, icon, About)
