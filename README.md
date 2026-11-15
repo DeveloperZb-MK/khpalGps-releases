@@ -24,4 +24,4 @@ Push this project to GitHub; the workflow in `.github/workflows/build.yml` build
 Intended for app developers, testers and privacy-minded users. Respect local laws and the rules of the apps you use.
 
 ## Credits and licence
-KHPAL GPS is a **modified and updated version** for location mocking. It has been developed to meet the modern requirements of location mocking. It is inspired from GPS Setter by [@jqssun](https://github.com/jqssun/android-gps-setter), which itself is based on GPS Setter by [@Android1500](https://github.com/Android1500/GPS-Setter). Licensed under the **GNU General Public License v3.0** (see `LICENSE`). The original copyright and licence notices are kept in `NOTICE`, as the GPL requires.
+KHPAL GPS is a **modified and updated version** for location mocking. It has been developed to meet the modern requirements of location mocking. It is inspired from GPS Setter by [@jqssun](https://github.com/jqssun/android-gps-setter). Licensed under the **GNU General Public License v3.0** (see `LICENSE`). The original copyright and licence notices are kept in `NOTICE`, as the GPL requires.
