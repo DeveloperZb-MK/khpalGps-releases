@@ -2,7 +2,8 @@ KHPAL GPS
 Copyright (C) 2026 MK_MANDOKHAIL (modifications)
 
 KHPAL GPS is a modified version of "GPS Setter" by @jqssun
-(https://github.com/jqssun/android-gps-setter, 2024-2025).
+(https://github.com/jqssun/android-gps-setter, 2024-2025), which is itself based on
+"GPS Setter" by @Android1500 (https://github.com/Android1500/GPS-Setter, 2022-2023).
 
 Modifications made in KHPAL GPS (summary):
  - renamed and rebranded (name, package com.khpalgps.zb, icon, About)
@@ -13,6 +14,7 @@ Modifications made in KHPAL GPS (summary):
  - settings order and icons, setting descriptions, horizontal/vertical accuracy with randomize values,
    gradual (drift) accuracy option, network accuracy sync, vertical accuracy limited by provider accuracy
  - Smart Provider Learning System (SPLS): background recorder, named SPLS locations with optional area limit, pause/resume/stop, CSV import/export, learned values for linked settings
+ - SPLS update: learned behaviour deployment, bearing, bearing accuracy, position jitter and drift settings linked to SPLS, per-provider pause/resume/stop and record maximum, automatic area switching with overlap warning, start checklist, 15-column CSV, SPLS Diagnostic Logger
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 GNU General Public License as published by the Free Software Foundation, version 3 of the
